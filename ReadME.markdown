@@ -103,19 +103,6 @@ record of booked seats .
 4. After completing the booking process close all the windows and run `adminside.py`.
 
 
-## Contributors
-
-- Nishit Jain 
-> - [LinkedIn](www.linkedin.com/in/nishit-jain1)
-> - [GitHub](https://github.com/coldkillerr)
-- Akshay Chopade
-> - [LinkedIn](https://www.linkedin.com/in/akshay-chopade-19307a172)
-> - [GitHub](https://github.com/akshay399)
-
-- Deep Patil
-
-
-
 
    
 
