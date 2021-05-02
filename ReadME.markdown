@@ -1,4 +1,4 @@
-# MOVIE TICKET BOOKING SYSTEM
+# FILM TICKET BOOKING SYSTEM
 
 Our project basically manages the ticket booking process of a theater,
 providing an interface to the user to book movie tickets in a more easy
